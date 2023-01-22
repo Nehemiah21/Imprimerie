@@ -1,0 +1,4 @@
+I - Imporation de fichier :
+    <%@ include file=""%> 
+ou 
+    <jsp:include page="" />

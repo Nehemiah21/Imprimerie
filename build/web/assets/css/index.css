@@ -1,0 +1,106 @@
+#menu-accueil .nav-item:hover {
+    border-bottom: solid 2px greenyellow;
+}
+  
+#add-employ {
+    margin-inline: 2rem;
+    width: 50%;
+    margin-inline: 25%;
+}
+  
+#all-header {
+    width: 100%;
+    font-size: initial;
+    font-weight: bolder;
+    background-color: var(--bs-highlight-bg);
+}
+  
+#all-employer {
+    width: 100%;
+}
+  
+#login-background {
+    background-image: url("../../assets/img/technology-g1facca90b_1920.jpg");
+    border-radius: 1rem;
+}
+  
+#login-center2 {
+    padding-block: 2rem;
+}
+  
+#login-center3 {
+background-color: #dbe3e7;
+    border-radius: 1rem;
+}
+  
+#devis-center {
+    text-align: center;
+}
+  
+#demande-devis-button {
+    width: 25%;
+background-color: #df4c40;
+    margin-left: 15%;
+    float: left;
+}
+  
+#demande-devis-button-1 {
+    margin-left: 50%;
+    width: 25%;
+    background-color: var(--bs-green);
+}
+  
+#demande-devis-title {
+    margin-top: 10%;
+    width: 90%;
+    border-radius: 1rem;
+}
+  
+#demande-devis-h1 {
+    letter-spacing: 0.3em;
+    width: 100%;
+    margin: none;
+    text-align: center;
+}
+  
+#add-save {
+background-color: #f09911;
+}
+  
+#save-button button {
+    border-radius: 0.5rem;
+}
+  
+.inscription-inline {
+    width: 10%;
+    float: left;
+}
+  
+#stop-float {
+    clear: both;
+}
+  
+#footers {
+    width: 100%;
+}
+  
+  
+#login-background {
+    margin: auto;
+}
+  
+#login-center {
+    background-color: rgb(255,255,255,0.45);
+}
+  
+.login-insertion {
+    padding-block: 2rem;
+}
+  
+#login-block {
+    width: 100rem;
+    margin-inline: 7rem;
+}
+  
+  
+  

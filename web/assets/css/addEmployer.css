@@ -1,0 +1,22 @@
+.inscription-inline label{
+  margin-inline: 1rem;
+}
+.inscription-inline span{
+  text-align: left;
+}
+#stop-float{
+  clear: both;
+}
+form{
+  text-align: center;
+}
+form h1{
+  color: #4a6f27;
+}
+.form-check-input{
+  font-size: 12pt;
+}
+.title{
+  font-size: 18pt;
+  color: #999;
+}
